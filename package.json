@@ -1,0 +1,22 @@
+{
+  "name": "PaginatorJS",
+  "version": "0.1.0",
+  "description": "Data paginator",
+  "main": "index.js",
+  "dependencies": {
+    "react": "~0.13.2",
+    "flux": "~2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cenkce/paginatorjs"
+  },
+  "files": ["src/"],
+  "devDependencies": {},
+  "scripts": {
+    "start": "jsxc --watch src/",
+    "build": "jsxc src/"
+  },
+  "author": "Cenk Cetinkaya",
+  "license": "MIT"
+}
